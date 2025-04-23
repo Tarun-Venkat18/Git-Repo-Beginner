@@ -1,4 +1,5 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hi there, {name}!"  # Changed the greeting
 
-print(greet("World"))
+print(greet("Alice"))
+
